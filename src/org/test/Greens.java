@@ -4,8 +4,8 @@ public class Greens {
 
 	public static void main(String[] args) {
 
-		System.out.println("message 1");
-		System.out.println("message 2");
+		System.out.println("message sinthuja");
+		System.out.println("message priya");
 	}
 
 }
